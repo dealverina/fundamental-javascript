@@ -1,11 +1,11 @@
 ## LIST OF FUNDAMENTAL JAVASCRIPT CONCEPTS
 
-- map() and filter()
--
--
--
--
--
+1. map and filter
+2. slice and splice
+3.
+4.
+5.
+6.
 
 ## How to run the code
 - Open file example.js
