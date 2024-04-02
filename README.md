@@ -3,7 +3,7 @@
 1. map and filter
 2. slice and splice
 3. concat
-4.
+4. find and findIndex
 5.
 6.
 
