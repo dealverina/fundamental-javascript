@@ -2,7 +2,7 @@
 
 1. map and filter
 2. slice and splice
-3.
+3. concat
 4.
 5.
 6.
