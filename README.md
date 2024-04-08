@@ -5,7 +5,8 @@
 3. concat
 4. find and findIndex
 5. destructuring
-6.
+6. rest and spread operator
+7. 
 
 ## How to run the code
 - Open file example.js
