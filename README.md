@@ -4,7 +4,7 @@
 2. slice and splice
 3. concat
 4. find and findIndex
-5.
+5. destructuring
 6.
 
 ## How to run the code
